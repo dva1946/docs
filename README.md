@@ -1,6 +1,4 @@
 # docs
-October 2nd 2022: Documentations for WpAppsForThat.Com
+October 19th my eBook has been updated to outline and complete about 25% of it. So it has be re-uploaded in hopes it will help some people.
 
-Each repository documentation should have a folder within this repository.
-
-One of my styles of documentation is creating a PDF of source code and doing markup within it. This is not applicable to all repositories.
+Look for more updates within the next week.
